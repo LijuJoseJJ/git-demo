@@ -8,3 +8,5 @@ Trying recursive merge
 had to produce conflict
 
 This is to test conflict merge
+
+this will new base to simpleRebase
