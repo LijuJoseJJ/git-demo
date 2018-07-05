@@ -1,18 +1,1 @@
-inital text
-
-for trying merge with disabling Fast forward merge
-
-Trying recursive merge
-
-
-had to produce conflict
-
-This is to test conflict merge
-
-
-this will new base to simpleRebase
-
-in simpleRebase branch
-
-
-for tags demo
+intial work
