@@ -1,1 +1,3 @@
 inital text
+
+for trying merge with disabling Fast forward merge
