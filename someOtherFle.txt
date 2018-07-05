@@ -4,4 +4,7 @@ for trying merge with disabling Fast forward merge
 
 Trying recursive merge
 
+
 had to produce conflict
+
+This is to test conflict merge
