@@ -3,3 +3,5 @@ inital text
 for trying merge with disabling Fast forward merge
 
 Trying recursive merge
+
+This is to test conflict merge
